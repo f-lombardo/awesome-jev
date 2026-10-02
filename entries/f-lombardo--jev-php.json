@@ -1,0 +1,6 @@
+{
+  "name": "jev-php",
+  "repository": "f-lombardo/jev-php",
+  "description": "A lightweight PHP library for Jev APIs with a minimal number of dependencies and a very small footprint.",
+  "category": "sdk"
+}
